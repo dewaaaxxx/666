@@ -4,8 +4,8 @@ import threading
 import os
 import sys
 
-print("--- AUTHOR BY : Dewxxx---")
-print("--- TOOLS BY : 666 ?¦²¦«M ++---")
+print("--- AUTHOR BY : Dewxxx ---")
+print("--- TOOLS BY : 666 Æ¬Î£Î›M ++ ---")
 print("--- DON'T ABUSE!!! ---")
 print("===================================")
 print("DDOS FOR SAMP, ULTRA - HOST, 20GTPS")
@@ -49,4 +49,4 @@ for y in range(threads):
     th.start()
   else:
     th = threading.Thread(target = run2)
-    th.start()   â€?
+    th.start()   
